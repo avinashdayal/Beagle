@@ -1,0 +1,22 @@
+.container {
+  border: 2px solid black;
+  padding: 20px;
+  display: inline-block;
+  
+}
+.container h1{
+    text-decoration: underline;
+}
+.container a{
+    color: black;
+}
+.second h1{
+    text-decoration: underline;
+}
+.second img{
+    width: 400px;
+    height: 300px;
+}
+.second a{
+    color: black;
+}
